@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonitoringLocation</string>
+    <string name="nh_p_token">Nhập Token</string>
+</resources>
